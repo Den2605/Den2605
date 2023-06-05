@@ -1,5 +1,4 @@
 ### Hi, I'm Denis Drits
----
 ### Education
 - Yandex.Practicum Backend Python Developer | 2023
 ### Technologies
