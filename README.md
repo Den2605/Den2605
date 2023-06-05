@@ -1,8 +1,8 @@
-# Hi, I'm Denis Drits
+### Hi, I'm Denis Drits
 ---
-# Education
+### Education
 - Yandex.Practicum Backend Python Developer | 2023
-# Technologies
+### Technologies
 - Backend: Python, Django, DjangoRestFramework
 - Database: SQLite
 - Tools: Git, Github, Unittest
