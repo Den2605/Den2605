@@ -16,4 +16,3 @@
 - **Backend**: Python, Django, DjangoRestFramework
 - **Database**: SQLite
 - **Tools**: Git, Github, Unittest
-- 
