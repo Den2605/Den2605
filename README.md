@@ -1,4 +1,4 @@
-## Hi, I'm Denis Drits
+## Денис Дриц
 
 <div id="badges">
   <a href="https://t.me/DenisDrits">
@@ -9,10 +9,10 @@
   </a>
 </div>
 
-### Education
-- Yandex.Practicum Backend Python Developer | 2023
+### Образование
+- Яндекс.Практикум Python-разработчик | 2023
 
-### Technologies
+### Технологии
 - **Backend**: Python, Django, DjangoRestFramework
 - **Database**: SQLite, PostgreSQL
 - **Tools**: Git, Github, Unittest, REST API, Nginx, Docker
