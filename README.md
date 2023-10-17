@@ -13,6 +13,6 @@
 - Яндекс.Практикум Python-разработчик | 2023
 
 ### Технологии
-- **Backend**: Python, Django, DjangoRestFramework
-- **Database**: SQLite, PostgreSQL
-- **Tools**: Git, Github, Unittest, REST API, Nginx, Docker
+- Python, Django, DjangoRestFramework
+- SQLite, PostgreSQL
+- Git, Github, Unittest, REST API, Nginx, Docker
