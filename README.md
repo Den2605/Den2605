@@ -27,7 +27,20 @@ _Contact me: tg @DenisDrits_
 </div>
 
 ***
+
 <h2><span style="color: #3d85c6"> My portfolio:</span></h2>
+<h3>Grocery_assistant</font></h3>
+<p>
+<details>
+<summary>For more details click below</summary>
+The Grocery Assistant app is a website where users will publish recipes, add other people's recipes to favorites and subscribe to publications by other authors.
+
+<a href="http://github.com/Den2605/grocery_assistant">Project on git</a>
+</details>
+</p>
+
+---
+
 <h3>Social network live journal</font></h3>
 <p>
 <details>
@@ -39,17 +52,43 @@ You can create your diary, read others', follow authors and enjoy there publicat
 </p>
 
 ---
-<h3>Grocery_assistant</font></h3>
+
+<h3>Books_reviews_platform</h3>
 <p>
 <details>
 <summary>For more details click below</summary>
-The Grocery Assistant app is a website where users will publish recipes, add other people's recipes to favorites and subscribe to publications by other authors.
+Here you can add your review to any book, rate it, cooment others' reviews.
 
-<a href="http://github.com/Den2605/grocery_assistant">Project on git</a>
+<a href="https://github.com/Den2605/books_reviews_platform">Project on git</a>
+</details>
+</p>
+
+---
+
+<h3>Telegram_bot </font></h3>
+<p>
+<details>
+<summary>For more details click below</summary>
+Bot assistant for parsing the status of homework verification in Yandex.Practicum.
+
+<a href="http://github.com/Den2605/telegram_bot">Project on git</a>
+</details>
+</p>
+
+---
+
+<h3>Fitness_tracker </font></h3>
+<p>
+<details>
+<summary>For more details click below</summary>
+A fitness tracker software module that processes data for three types of workouts: running, walking and swimming.
+
+<a href="http://github.com/Den2605/fitness_tracker">Project on git</a>
 </details>
 </p>
 
 ***
+
 <h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Den2605&theme=dark&background=000000)](https://git.io/streak-stats)
