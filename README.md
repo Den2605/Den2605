@@ -49,6 +49,8 @@ The Grocery Assistant app is a website where users will publish recipes, add oth
 <summary>For more details click below</summary>
 You can create your diary, read others', follow authors and enjoy there publications on subscription page.
 
+![Social_network](https://github.com/Den2605/Den2605/assets/123579969/9097a073-09a8-4ff2-b2ce-e4571c2ef3d7)
+
 <a href="http://github.com/Den2605/hw05_final">Project on git</a>
 </details>
 </p>
