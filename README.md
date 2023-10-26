@@ -26,7 +26,7 @@ _Contact me: tg @DenisDrits_
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" **alt="Postman" width="50" height="50"/>
 </div>
 
-***
+---
 
 <h2><span style="color: #3d85c6"> My portfolio:</span></h2>
 <h3>Grocery_assistant</font></h3>
@@ -91,8 +91,7 @@ A fitness tracker software module that processes data for three types of workout
 </details>
 </p>
 
-
-***
+---
 
 <h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
 
