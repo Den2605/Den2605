@@ -1,14 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3d85c6&lines=I'm+Denis.+Study+and+like+Python.)](https://git.io/typing-svg)
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 _Contact me: tg @DenisDrits_
-
-
 <h3><span style="color: #000000"> My stack will increase, but now it's as follow:</span></h3>
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
