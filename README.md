@@ -39,7 +39,7 @@ You can create your diary, read others', follow authors and enjoy there publicat
 </p>
 
 ---
-<h3>Social network live journal</font></h3>
+<h3>Grocery_assistant</font></h3>
 <p>
 <details>
 <summary>For more details click below</summary>
