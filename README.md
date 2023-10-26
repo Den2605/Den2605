@@ -6,7 +6,7 @@
 
 _Contact me: tg @DenisDrits_
 
-<h3>My stack will increase, but now it's as follow<h3>
+<h3>My stack will increase, but now it's as follow:<h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;  
