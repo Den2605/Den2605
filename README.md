@@ -39,6 +39,15 @@ You can create your diary, read others', follow authors and enjoy there publicat
 </p>
 
 ---
+<h3>Social network live journal</font></h3>
+<p>
+<details>
+<summary>For more details click below</summary>
+The Grocery Assistant app is a website where users will publish recipes, add other people's recipes to favorites and subscribe to publications by other authors.
+
+<a href="http://github.com/Den2605/grocery_assistant">Project on git</a>
+</details>
+</p>
 
 ***
 <h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
