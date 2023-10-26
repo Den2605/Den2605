@@ -28,6 +28,17 @@ _Contact me: tg @DenisDrits_
 
 ***
 <h2><span style="color: #3d85c6"> My portfolio:</span></h2>
+<h3>Social network live journal</font></h3>
+<p>
+<details>
+<summary>For more details click below</summary>
+You can create your diary, read others', follow authors and enjoy there publications on subscription page.
+
+<a href="http://github.com/Den2605/hw05_final">Project on git</a>
+</details>
+</p>
+
+---
 
 ***
 <h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
