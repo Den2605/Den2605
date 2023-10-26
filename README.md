@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Denis.+Study+and+like+Python)](https://git.io/typing-svg)
+
 _Contact me: tg @DenisDrits_
+
+<h3><span style="color: #2336f7"> My stack will increase, but now it's as follow:</span></h3>
+
 <div id="badges">
   <a href="https://t.me/DenisDrits">
     <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
