@@ -10,14 +10,9 @@ _Contact me: tg @DenisDrits_
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=restapi)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![HTTPX](https://img.shields.io/badge/httpx-%23E34F26.svg?style=for-the-badge&logo=httpx&logoColor=white)
 ![HTTPX](https://img.shields.io/badge/HTTPX-client%20for%20Python-blue)
-
-### Технологии
-- Python, Django, DjangoRestFramework
-- SQLite, PostgreSQL
-- Git, Github, Unittest, REST API, Nginx, Docker
