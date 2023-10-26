@@ -2,7 +2,7 @@
 
 _Contact me: tg @DenisDrits_
 
-<h3><span style="color: #2336BCF7"> My stack will increase, but now it's as follow:</span></h3>
+<h3><span style="color: #000000"> My stack will increase, but now it's as follow:</span></h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;  
