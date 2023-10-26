@@ -87,6 +87,7 @@ A fitness tracker software module that processes data for three types of workout
 </details>
 </p>
 
+
 ***
 
 <h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
