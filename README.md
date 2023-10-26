@@ -6,7 +6,7 @@
 
 _Contact me: tg @DenisDrits_
 
-### My stack will increase, but now it's as follow
+<h3>My stack will increase, but now it's as follow<h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;  
@@ -26,9 +26,7 @@ _Contact me: tg @DenisDrits_
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" **alt="Postman" width="50" height="50"/>
 </div>
 
-### Badges
-
-<b>My GitHub Stats</b>
+<h3>My GitHub Stats<h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Den2605&theme=dark&background=000000)](https://git.io/streak-stats)
 
