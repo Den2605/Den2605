@@ -25,3 +25,12 @@ _Contact me: tg @DenisDrits_
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" **alt="HTTP" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" **alt="Postman" width="50" height="50"/>
 </div>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Den2605&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
