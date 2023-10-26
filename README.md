@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=I'm+Denis.+Study+and+like+Python.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3d85c6&lines=I'm+Denis.+Study+and+like+Python.)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -6,7 +6,7 @@
 
 _Contact me: tg @DenisDrits_
 
-<h3>My stack will increase, but now it's as follow:<h3>
+<h3><span style="color: #3d85c6"> My stack will increase, but now it's as follow:</span></h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;  
@@ -26,9 +26,6 @@ _Contact me: tg @DenisDrits_
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" **alt="Postman" width="50" height="50"/>
 </div>
 
-<h3>My GitHub Stats<h3>
+<h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Den2605&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
