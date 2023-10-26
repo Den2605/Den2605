@@ -14,5 +14,4 @@ _Contact me: tg @DenisDrits_
 ![RestAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=restapi)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![HTTPX](https://img.shields.io/badge/httpx-%23E34F26.svg?style=for-the-badge&logo=httpx&logoColor=white)
-![HTTPX](https://img.shields.io/badge/HTTPX-client%20for%20Python-blue)
+![HTTPX](https://img.shields.io/badge/httpx-%23092E20.svg?style=for-the-badge&logo=httpx&logoColor=white)
