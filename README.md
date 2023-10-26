@@ -35,6 +35,8 @@ _Contact me: tg @DenisDrits_
 <summary>For more details click below</summary>
 The Grocery Assistant app is a website where users will publish recipes, add other people's recipes to favorites and subscribe to publications by other authors.
 
+![2023-05-12_20-49-55](https://github.com/Den2605/Den2605/2023-10-26_14-13-30.png)
+
 <a href="http://github.com/Den2605/grocery_assistant">Project on git</a>
 </details>
 </p>
