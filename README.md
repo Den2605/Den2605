@@ -27,6 +27,9 @@ _Contact me: tg @DenisDrits_
 </div>
 
 ***
+<h2><span style="color: #3d85c6"> My portfolio:</span></h2>
+
+***
 <h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Den2605&theme=dark&background=000000)](https://git.io/streak-stats)
