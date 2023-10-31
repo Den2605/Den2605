@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-_Contact me: tg @DenisDrits_
-
 <h3><span style="color: #3d85c6"> My stack will increase, but now it's as follow:</span></h3>
 
 <div>
