@@ -92,5 +92,5 @@ A fitness tracker software module that processes data for three types of workout
 ---
 
 <h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Den2605=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Den2605)](https://git.io/streak-stats)
