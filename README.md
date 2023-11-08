@@ -90,7 +90,6 @@ A fitness tracker software module that processes data for three types of workout
 </p>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?Den2605=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
 
