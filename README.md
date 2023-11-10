@@ -97,4 +97,4 @@ A fitness tracker software module that processes data for three types of workout
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Den2605)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=Den2605&color=dc143c)
+![](https://komarev.com/ghpvc/?username=Den2605&style=flat-square)
