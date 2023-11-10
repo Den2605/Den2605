@@ -86,6 +86,8 @@ Bot assistant for parsing the status of homework verification in Yandex.Practicu
 A fitness tracker software module that processes data for three types of workouts: running, walking and swimming.
 
 <a href="http://github.com/Den2605/fitness_tracker">Project on git</a>
+
+![](https://komarev.com/ghpvc/?username=Den2605&color=dc143c)
 </details>
 </p>
 
