@@ -26,7 +26,7 @@
 
 ---
 
-<h2><span style="color: #3d85c6"> My portfolio:</span></h2>
+<h2><span style="color: #3d85c6"> The last works I have done:</span></h2>
 
 <h3>Alfa_bank_hackathon</font></h3>
 <p>
