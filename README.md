@@ -27,6 +27,21 @@
 ---
 
 <h2><span style="color: #3d85c6"> My portfolio:</span></h2>
+
+<h3>Alfa_bank_hackathon</font></h3>
+<p>
+<details>
+<summary>For more details click below</summary>
+The project was developed by a cross-platform team.
+The main task that has been solved in this project is to create a service within which employees can draw up an IPR (individual development plans), view it and validate the fulfillment of goals.
+  
+![Alfa_bank_hackathon](https://github.com/Den2605/Den2605/assets/123579969/1a3daea6-c76d-4ced-8106-473941e51f39)
+
+<a href="https://github.com/Den2605/alfa_bank_hackathon">Project on git</a>
+</details>
+</p>
+
+---
 <h3>Grocery_assistant</font></h3>
 <p>
 <details>
@@ -55,42 +70,6 @@ You can create your diary, read others', follow authors and enjoy there publicat
 
 ---
 
-<h3>Books_reviews_platform</h3>
-<p>
-<details>
-<summary>For more details click below</summary>
-Here you can add your review to any book, rate it, cooment others' reviews.
-
-<a href="https://github.com/Den2605/books_reviews_platform">Project on git</a>
-</details>
-</p>
-
----
-
-<h3>Telegram_bot </font></h3>
-<p>
-<details>
-<summary>For more details click below</summary>
-Bot assistant for parsing the status of homework verification in Yandex.Practicum.
-
-<a href="http://github.com/Den2605/telegram_bot">Project on git</a>
-</details>
-</p>
-
----
-
-<h3>Fitness_tracker </font></h3>
-<p>
-<details>
-<summary>For more details click below</summary>
-A fitness tracker software module that processes data for three types of workouts: running, walking and swimming.
-
-<a href="http://github.com/Den2605/fitness_tracker">Project on git</a>
-
-</details>
-</p>
-
----
 
 <h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
 
