@@ -42,7 +42,7 @@ The main task that has been solved in this project is to create a service within
 </p>
 
 ---
-<h3>Grocery_assistant</font></h3>
+<h3>Grocery assistant</font></h3>
 <p>
 <details>
 <summary>For more details click below</summary>
