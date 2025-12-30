@@ -31,15 +31,14 @@
 <p>
 <details>
 <summary>For more details click below</summary>
-The Passportauto app is your personal assistant for managing your vehicles, maintenance, routes, and expenses.
+PassportAuto: Private Django Application
+A Dockerized Django app I built and use daily for personal vehicle expense tracking. Implements smart trip cost calculations (including depreciation), uses Django Templates, and runs in production at passportauto.ru as my private tool.
 
-![PassportAuto](https://github.com/Den2605/Den2605/blob/main/Screenshot%20from%202025-12-30%2010-08-26.png)
+![PassportAuto](https://github.com/Den2605/Den2605/blob/main/stats.png)
 
 <a href="https://passportauto.ru/">PassportAuto</a>
 </details>
 </p>
-
----
 
 <h3>Alfa bank hackathon</font></h3>
 <p>
@@ -51,19 +50,6 @@ The main task that has been solved in this project is to create a service within
 ![Alfa_bank_hackathon](https://github.com/Den2605/Den2605/assets/123579969/1a3daea6-c76d-4ced-8106-473941e51f39)
 
 <a href="https://github.com/Den2605/alfa_bank_hackathon">Project on git</a>
-</details>
-</p>
-
----
-<h3>Grocery assistant</font></h3>
-<p>
-<details>
-<summary>For more details click below</summary>
-The Grocery Assistant app is a website where users will publish recipes, add other people's recipes to favorites and subscribe to publications by other authors.
-
-![Grocery_assistant](https://github.com/Den2605/Den2605/assets/123579969/0dcc2f54-dc1f-44be-8f33-87157d297fe1)
-
-<a href="http://github.com/Den2605/grocery_assistant">Project on git</a>
 </details>
 </p>
 
