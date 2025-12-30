@@ -31,9 +31,10 @@
 <details>
 <summary>For more details click below</summary>
 The Passportauto app is your personal assistant for managing your vehicles, maintenance, routes, and expenses.
-![PassportAuto](https://passportauto.ru/)
 
-<a href="https://passportauto.ru/"</a>
+![PassportAuto](https://github.com/Den2605/Den2605/blob/main/Screenshot%20from%202025-12-30%2010-08-26.png)
+
+<a href="https://passportauto.ru/">PassportAuto</a>
 </details>
 </p>
 
