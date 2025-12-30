@@ -25,6 +25,7 @@
 </div>
 
 ---
+<h2><span style="color: #3d85c6"> The last works I have done:</span></h2>
 
 <h3>PassportAuto</font></h3>
 <p>
@@ -39,8 +40,6 @@ The Passportauto app is your personal assistant for managing your vehicles, main
 </p>
 
 ---
-
-<h2><span style="color: #3d85c6"> The last works I have done:</span></h2>
 
 <h3>Alfa bank hackathon</font></h3>
 <p>
@@ -65,20 +64,6 @@ The Grocery Assistant app is a website where users will publish recipes, add oth
 ![Grocery_assistant](https://github.com/Den2605/Den2605/assets/123579969/0dcc2f54-dc1f-44be-8f33-87157d297fe1)
 
 <a href="http://github.com/Den2605/grocery_assistant">Project on git</a>
-</details>
-</p>
-
----
-
-<h3>Social network live journal</font></h3>
-<p>
-<details>
-<summary>For more details click below</summary>
-You can create your diary, read others', follow authors and enjoy there publications on subscription page.
-
-![Social_network](https://github.com/Den2605/Den2605/assets/123579969/9097a073-09a8-4ff2-b2ce-e4571c2ef3d7)
-
-<a href="http://github.com/Den2605/hw05_final">Project on git</a>
 </details>
 </p>
 
