@@ -70,10 +70,4 @@ You can create your diary, read others', follow authors and enjoy there publicat
 
 ---
 
-
-#<h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
-
-#[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Den2605)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![](https://komarev.com/ghpvc/?username=Den2605&style=flat-square)
