@@ -33,7 +33,7 @@
 <summary>For more details click below</summary>
 Dockerized Django app I built and use daily for personal vehicle expense tracking. Developed with AI-assisted coding tools, it implements smart trip cost calculations (including depreciation), provides detailed vehicle analytics and statistics, uses Django Templates, and runs in production at passportauto.ru as my private tool.
 
-![PassportAuto](https://github.com/Den2605/Den2605/blob/main/stats.png)
+![PassportAuto](https://github.com/Den2605/Den2605/blob/main/stats_new.png)
 
 <a href="https://passportauto.ru/">PassportAuto</a>
 </details>
